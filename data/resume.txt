@@ -1,0 +1,44 @@
+[profile]
+name: Andrew
+role: 백엔드 개발자
+tagline: 기본기를 중시하며 단순하고 읽기 쉬운 코드를 만듭니다.
+photo: img/avatar.svg
+email: andrew@example.com
+github: https://github.com/andrew
+
+[sns]
+LinkedIn: https://www.linkedin.com/in/andrew
+Twitter: https://twitter.com/andrew
+Blog: https://andrew.example.com
+
+[about]
+text: 시스템 프로그래밍부터 웹 서버까지 기본기를 중시하는 개발자입니다. 단순하고 읽기 쉬운 코드를 지향하며, 외부 도구 없이도 문제를 풀어내는 과정을 좋아합니다.
+
+[skills]
+list: C, HTML, Java
+
+[career]
+company: 가나다 소프트
+period: 2022.03 - 현재
+duty: 사내 API 서버 개발 및 운영, 성능 개선
+
+[career]
+company: 라마바 시스템
+period: 2020.01 - 2022.02
+duty: 임베디드 장비용 C 펌웨어 개발
+
+[project]
+name: 개발자 웹 이력서
+desc: 데이터 파일에서 HTML을 생성하고 Java 서버로 제공하는 이력서
+tech: C, HTML, Java
+image: img/project-1.svg
+
+[project]
+name: 로그 분석 도구
+desc: 대용량 서버 로그를 빠르게 집계하는 CLI 도구
+tech: C
+image: img/project-2.svg
+
+[education]
+item: 한국대학교 컴퓨터공학과 졸업 (2019)
+item: 정보처리기사 (2019)
